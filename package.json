@@ -1,7 +1,7 @@
 {
   "name": "@hornta/eslint-config",
-  "version": "0.0.0-development",
   "license": "MIT",
+  "version": "0.0.0-development",
   "author": "hornta",
   "keywords": [
     "eslint",
