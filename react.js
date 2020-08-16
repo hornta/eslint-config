@@ -63,7 +63,7 @@ const jsxRules = {
 	"react/jsx-curly-newline": ["off"],
 	"react/jsx-curly-spacing": ["off"],
 	"react/jsx-equals-spacing": ["error"],
-	"react/jsx-filename-extension": ["error"],
+	"react/jsx-filename-extension": ["off"],
 	"react/jsx-first-prop-new-line": ["off"],
 	"react/jsx-fragments": ["error"],
 	"react/jsx-handler-names": ["error"],

@@ -41,6 +41,6 @@ module.exports = {
 		"import/no-webpack-loader-syntax": ["error"],
 		"import/order": ["error"],
 		"import/prefer-default-export": ["error"],
-		"import/unambiguous": ["error"],
+		"import/unambiguous": ["off"],
 	},
 };
