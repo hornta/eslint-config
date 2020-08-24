@@ -9,7 +9,7 @@ module.exports = {
 		"import/extensions": ["off"],
 		"import/first": ["error"],
 		"import/group-exports": ["error"],
-		"import/max-dependencies": ["error"],
+		"import/max-dependencies": ["off"],
 		"import/named": ["error"],
 		"import/namespace": ["error"],
 		"import/newline-after-import": ["error"],
