@@ -83,7 +83,7 @@ const jsxRules = {
 	"react/jsx-one-expression-per-line": ["off"],
 	"react/jsx-pascal-case": ["error"],
 	"react/jsx-props-no-multi-spaces": ["off"],
-	"react/jsx-props-no-spreading": ["error"],
+	"react/jsx-props-no-spreading": ["off"],
 	"react/jsx-sort-default-props": ["error"],
 	"react/jsx-sort-props": ["error"],
 	"react/jsx-space-before-closing": ["off"],
