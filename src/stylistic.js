@@ -72,7 +72,7 @@ module.exports = {
 		"object-curly-newline": ["off"],
 		"object-curly-spacing": ["off"],
 		"object-property-newline": ["off"],
-		"one-var": ["off"],
+		"one-var": ["error", { initialized: "never", uninitialized: "always" }],
 		"one-var-declaration-per-line": ["off"],
 		"operator-assignment": ["off"],
 		"operator-linebreak": ["off"],
