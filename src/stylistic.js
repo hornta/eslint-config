@@ -53,7 +53,7 @@ module.exports = {
 		"no-lonely-if": ["off"],
 		"no-mixed-operators": ["off"],
 		"no-mixed-spaces-and-tabs": ["off"],
-		"no-multi-assign": ["off"],
+		"no-multi-assign": ["error"],
 		"no-multiple-empty-lines": ["off"],
 		"no-negated-condition": ["off"],
 
