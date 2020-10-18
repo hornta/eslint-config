@@ -40,7 +40,7 @@ const reactRules = {
 	"react/prefer-read-only-props": ["off"],
 	"react/prefer-stateless-function": ["error"],
 	"react/prop-types": ["error"],
-	"react/react-in-jsx-scope": ["error"],
+	"react/react-in-jsx-scope": ["off"],
 	"react/require-default-props": ["error"],
 	"react/require-optimization": ["error"],
 	"react/require-render-return": ["error"],
@@ -88,7 +88,7 @@ const jsxRules = {
 	"react/jsx-sort-props": ["error"],
 	"react/jsx-space-before-closing": ["off"],
 	"react/jsx-tag-spacing": ["off"],
-	"react/jsx-uses-react": ["error"],
+	"react/jsx-uses-react": ["off"],
 	"react/jsx-uses-vars": ["error"],
 	"react/jsx-wrap-multilines": ["off"],
 };
